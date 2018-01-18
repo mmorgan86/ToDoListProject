@@ -27,3 +27,4 @@ $("input[type='text']").keypress(function(){
 $(".fa-pencil-square-o").click(function(){
   $("input[type='text']").fadeToggle();
 });
+
